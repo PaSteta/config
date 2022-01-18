@@ -1,2 +1,2 @@
 temperature:
-    unit: K # za celzijuse ili K za kelvine
+    unit: C # za celzijuse ili K za kelvine
